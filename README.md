@@ -58,7 +58,7 @@ I have provided skeleton code for a binary search tree-based implementation of t
 
 * When you are writing the code for `getKeys()` to return an ArrayList of ordered keys, consult the class notes on tree traversal to remember how to traverse the tree in the correct order to return an ordered list. (Hint: it's in-order!)
 
-*There are many implementations of the tree map data structure on the web. You must implement your tree map as I have described above using the skeleton code I have provided. Remember that I have provided [a ton of BST sample code here](  https://github.com/BC-CSCI-1102-S20-MWF12/example_code/tree/master/week8/BInarySearchTrees). You definitely can and should use the code, though you will have to change it to make it work with these different data types, of cours!*
+*There are many implementations of the tree map data structure on the web. You must implement your tree map as I have described above using the skeleton code I have provided. Remember that I have provided [a ton of BST sample code here](  https://github.com/BC-CSCI-1102-S20-MWF12/example_code/tree/master/week10). You definitely can and should use the code, though you will have to change it to make it work with these different data types, of cours!*
 
 
 ### Testing your data structure
